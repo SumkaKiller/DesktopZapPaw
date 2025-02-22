@@ -1,0 +1,15 @@
+{
+  "name": "zappaw-messenger",
+  "version": "1.0.0",
+  "description": "Desktop приложение для мессенджера ZapPaw, разработанное с использованием Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^25.2.0"
+  },
+  "author": "Kostia",
+  "license": "MIT"
+}
